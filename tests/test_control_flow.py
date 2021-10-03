@@ -1,5 +1,6 @@
-import pytest
 import logging
+
+import pytest
 
 from source.control_flow import control_flow
 
